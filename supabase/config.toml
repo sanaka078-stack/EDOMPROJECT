@@ -1,0 +1,10 @@
+project_id = "stoyjmanxgydcwqhdlpf"
+
+[functions.database-backup]
+verify_jwt = false
+
+[functions.database-restore]
+verify_jwt = false
+
+[functions.database-schema-export]
+verify_jwt = false
